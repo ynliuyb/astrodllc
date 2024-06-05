@@ -13,9 +13,12 @@ AstroDLLC is a deep learning-based lossless compression algorithm designed to si
 We are currently preparing detailed documentation and setup instructions. Please check back soon for updated guidelines on how to get started with the AstroDLLC project.
 
 # Referenced base resources
-## NVST: https://fso.ynao.ac.cn
-## Solar Dynamics Observatory：https://sdo.gsfc.nasa.gov/data/aiahmi/browse/queued.php
-## Big Bear Solar Observatory: http://ftp.bbso.njit.edu/pub/archive/2023/12/01/
-## Bit-swap：https://github.com/fhkingma/bitswap
+1. SKA: https://www.skao.int/en/explore/telescopes
+2. FAST:https://fast.bao.ac.cn/
+3. NVST: https://fso.ynao.ac.cn
+4. Solar Dynamics Observatory：https://sdo.gsfc.nasa.gov/data/aiahmi/browse/queued.php
+5. Big Bear Solar Observatory: http://ftp.bbso.njit.edu/pub/archive/2023/12/01/
+6. Bit-swap：https://github.com/fhkingma/bitswap
+
 # Note
 Please note that the paper associated with this repository is currently under review.
